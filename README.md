@@ -10,4 +10,4 @@ Este código está escrito em Java, ele pede 10 números ao usuário e na saída
 
 ## Tecnologias utilizadas:
 
-- java
+![Java](https://img.shields.io/badge/-Java-orange)
