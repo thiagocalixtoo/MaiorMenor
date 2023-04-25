@@ -1,3 +1,5 @@
+![MaiorMenor](https://user-images.githubusercontent.com/125104298/234163889-f585726f-ca34-45bc-9b50-0cc3cea902fd.gif)
+
 # Mostrar o maior e menor valor entre 10 números
 
 Este código está escrito em Java, ele pede 10 números ao usuário e na saída mostra qual o maior e menor valor dentre os números listados pelo usuário.
